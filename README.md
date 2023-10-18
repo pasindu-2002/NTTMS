@@ -1,2 +1,2 @@
-# NTTMS
-NIBM Time Table Management System
+# NTTMS | NIBM Time Table Management System
+
