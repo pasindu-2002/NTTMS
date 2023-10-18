@@ -1,2 +1,2 @@
 # NTTMS | NIBM Time Table Management System
-NTTMS is an automatic timetable generator system of NIBM (Sri lankan private university). This system use to easily generate timetables (dependent of lecturer availability) and Manage timetables easily.
+The NTTMS web application serves as an Automatic Timetable Generation System and Timetable Management System, designed to streamline and optimize the complex process of creating and managing timetables for the National Institute of Business Management. 
