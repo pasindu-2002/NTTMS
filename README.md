@@ -3,17 +3,17 @@ NTTMS (National Institute of Business Management Timetable Management System) is
 <h2>Features:</h2>
 <ul>
   <li><b>Program Management:</b> Program office staff can effortlessly add courses, batches, lecturers, and students to the system.</li>
-  <li>Course Administration: Assign course directors for each batch and manage subject assignments efficiently.</li>
-  <li>Automatic Timetable Generation: NTTMS automates the assignment of module dates, saving time and effort for program office staff.</li>
-  <li>Subject Management: Program office staff and lecturers can add subjects to the system, facilitating seamless scheduling.</li>
-  <li>Lecturer Assignment: Course directors can assign lecturers to subjects, with the option for lecturers to accept or reject assignments.</li>
-  <li>Timetable Viewing: Students, lecturers, and program office staff can easily view their respective timetables within the system.</li>
-  <li>Notification System: Receive notifications for subject assignments and respond accordingly.</li>
-  <li>Performance and Reliability: NTTMS ensures fast and consistent performance with minimal errors or interruptions.</li>
-  <li>Scalability and Usability: The system is designed to handle increasing user and course loads while remaining user-friendly and easy to navigate.</li>
-  <li>Accessibility and Compatibility: NTTMS is accessible to users with disabilities and compatible with various devices, operating systems, and web browsers.</li>
-  <li>Interoperability and Maintainability: The system can integrate with other platforms and is easy to maintain and update with clear documentation and modular design.</li>
-  <li>Security: Robust security features, including secure authentication and data encryption, safeguard user data and prevent unauthorized access.</li>
+  <li><b>Course Administration:</b> Assign course directors for each batch and manage subject assignments efficiently.</li>
+  <li><b>Automatic Timetable Generation:</b> NTTMS automates the assignment of module dates, saving time and effort for program office staff.</li>
+  <li><b>Subject Management:</b> Program office staff and lecturers can add subjects to the system, facilitating seamless scheduling.</li>
+  <li><b>Lecturer Assignment:</b> Course directors can assign lecturers to subjects, with the option for lecturers to accept or reject assignments.</li>
+  <li><b>Timetable Viewing:</b> Students, lecturers, and program office staff can easily view their respective timetables within the system.</li>
+  <li><b>Notification System: </b>Receive notifications for subject assignments and respond accordingly.</li>
+  <li><b>Performance and Reliability:</b> NTTMS ensures fast and consistent performance with minimal errors or interruptions.</li>
+  <li><b>Scalability and Usability: </b>The system is designed to handle increasing user and course loads while remaining user-friendly and easy to navigate.</li>
+  <li><b>Accessibility and Compatibility:</b> NTTMS is accessible to users with disabilities and compatible with various devices, operating systems, and web browsers.</li>
+  <li><b>Interoperability and Maintainability:</b> The system can integrate with other platforms and is easy to maintain and update with clear documentation and modular design.</li>
+  <li><b>Security:</b> Robust security features, including secure authentication and data encryption, safeguard user data and prevent unauthorized access.</li>
 </ul>
 
 NTTMS aims to revolutionize timetable management for educational institutions, offering a comprehensive solution that is efficient, reliable, and user-friendly.
