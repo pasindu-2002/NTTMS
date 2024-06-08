@@ -1,5 +1,5 @@
 # NTTMS | NIBM Time Table Management System
-NTTMS (National Institute of Business Management Timetable Management System) is a comprehensive web application designed to streamline and optimize the complex process of creating and managing timetables for the National Institute of Business Management (NIBM). Built on a robust foundation of HTML5, CSS, JavaScript, Bootstrap, PHP, and MySQL, NTTMS offers a range of functionalities to meet the diverse needs of program office staff, lecturers, and students. 
+NTTMS (Automatic Timetable Generation System and Timetable Management System) - where efficiency meets organization in academic scheduling. NTTMS, built on a foundation of HTML5, CSS, JavaScript, Bootstrap, PHP, and MySQL, is a comprehensive solution for educational institutions. This system automates the complex task of timetable generation while providing robust management features. With a user-friendly interface, educators can easily input data, and NTTMS intelligently creates optimized timetables. Stay organized, save time, and enhance productivity with NTTMS – the ultimate solution for seamless timetable management in National Institute of Business Management(NIBM).
 <h2>Features:</h2>
 <ul>
   <li><b>Program Management:</b> Program office staff can effortlessly add courses, batches, lecturers, and students to the system.</li>
